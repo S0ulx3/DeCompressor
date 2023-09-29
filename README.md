@@ -9,6 +9,5 @@ Es un Descomprimidor de Archivos, utiliza 7zip y esta hecho en Bash
 
 ```git clone https://www.github.com/S0ulx3/DeCompressor
 
-```chmod +x DeCompressor.sh```
+``` chmod +x DeCompressor.sh ```
 ```./DeCompressor.sh
-```
