@@ -5,7 +5,7 @@
 
 | DeCompressor |
 | ------- |
-|![f](https://github.com/S0ulx3/DeCompressor/blob/main/DeCompressor.png)
+|![f](https://github.com/S0ulx3/DeCompressor/blob/main/DeCompressor.jpg)
 
 --------------------------------------------------
 
