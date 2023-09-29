@@ -7,7 +7,7 @@
 - [English](#english)
 
 --------------------------------------------------
-#Español
+# Español
 # Instalación Español
 -------------
 
