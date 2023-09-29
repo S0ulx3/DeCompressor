@@ -8,7 +8,13 @@
 
 - Clonamos el repositorio
 ```
-git clone https://www.github.com/S0ulx3/DeCompressor ```
----------------------------
+git clone https://www.github.com/S0ulx3/DeCompressor
+```
+Otorgamos permisos de ejecución
+```
 chmod +x DeCompressor.sh
-```./DeCompressor.sh
+```
+Ejecutamos el Script
+```
+./DeCompressor.sh
+```
