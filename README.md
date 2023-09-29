@@ -1,20 +1,21 @@
 # DeCompressor
 --------------
+--------------
 - Es un Descomprimidor de Archivos, utiliza 7zip y esta hecho en Bash
 --------------------------------------------------
 
-# Instalación
+# Instalación Español
 -------------
 
 - Clonamos el repositorio
 ```
 git clone https://www.github.com/S0ulx3/DeCompressor
 ```
-Otorgamos permisos de ejecución
+- Otorgamos permisos de ejecución
 ```
 chmod +x DeCompressor.sh
 ```
-Ejecutamos el Script
+- Ejecutamos el Script
 ```
 ./DeCompressor.sh
 ```
