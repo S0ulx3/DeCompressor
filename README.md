@@ -3,9 +3,9 @@
 - Es un Descomprimidor de Archivos, utiliza 7zip y esta hecho en Bash
 --------------------------------------------------
 
-
-[[Decompressor.png]]
-
+| DeCompressor |
+| ------- |
+|![f](https://github.com/S0ulx3/DeCompressor/blob/main/DeCompressor.png)
 
 --------------------------------------------------
 
